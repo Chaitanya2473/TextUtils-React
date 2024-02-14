@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Chaitanya2473/TextUtils-React/static/css/main.f855e6bc.css",
+    "main.js": "/Chaitanya2473/TextUtils-React/static/js/main.307d8033.js",
+    "static/js/592.5a7c6f19.chunk.js": "/Chaitanya2473/TextUtils-React/static/js/592.5a7c6f19.chunk.js",
+    "index.html": "/Chaitanya2473/TextUtils-React/index.html",
+    "main.f855e6bc.css.map": "/Chaitanya2473/TextUtils-React/static/css/main.f855e6bc.css.map",
+    "main.307d8033.js.map": "/Chaitanya2473/TextUtils-React/static/js/main.307d8033.js.map",
+    "592.5a7c6f19.chunk.js.map": "/Chaitanya2473/TextUtils-React/static/js/592.5a7c6f19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.307d8033.js"
+  ]
+}
